@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="338" it="0" lt="338" ct="175" ts="1517994238837" s="true" lb="Login" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="2986" sby="137" ng="1" na="1"/>
+<httpSample t="272" it="0" lt="136" ct="0" ts="1517994239184" s="true" lb="Home" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30381" sby="146" ng="1" na="1"/>
+<httpSample t="403" it="0" lt="135" ct="0" ts="1517994239457" s="true" lb="Project List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="44167" sby="150" ng="1" na="1"/>
+<httpSample t="272" it="0" lt="137" ct="0" ts="1517994239861" s="true" lb="Project Benefits Tracking List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37976" sby="168" ng="1" na="1"/>
+<httpSample t="271" it="0" lt="137" ct="0" ts="1517994240134" s="true" lb="Project Closed List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="36267" sby="157" ng="1" na="1"/>
+<httpSample t="405" it="0" lt="137" ct="0" ts="1517994240406" s="true" lb="Project Archived List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37957" sby="159" ng="1" na="1"/>
+<httpSample t="809" it="0" lt="273" ct="0" ts="1517994240812" s="true" lb="Project - Overview" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="70771" sby="150" ng="1" na="1"/>
+<httpSample t="960" it="0" lt="322" ct="160" ts="1517994241622" s="true" lb="Project - Dashboard" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="71010" sby="151" ng="1" na="1"/>
+<httpSample t="23" it="0" lt="0" ct="0" ts="1517994242583" s="false" lb="Project - Dashboard: Add New Item" rc="Non HTTP response code: org.apache.http.NoHttpResponseException" rm="Non HTTP response message: production.dev.projectfocushq.com:80 failed to respond" tn="Front End 1-1" dt="text" by="2216" sby="0" ng="1" na="1"/>
+<httpSample t="970" it="0" lt="701" ct="135" ts="1517994242607" s="true" lb="Project - Dashboard: Edit Section" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="32256" sby="164" ng="1" na="1"/>
+<httpSample t="408" it="0" lt="137" ct="0" ts="1517994243577" s="true" lb="Project - Dashboard - Data Source" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="45711" sby="163" ng="1" na="1"/>
+<httpSample t="270" it="0" lt="136" ct="0" ts="1517994243985" s="true" lb="Project - Dashboard - Data Source: Import" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="28707" sby="170" ng="1" na="1"/>
+<httpSample t="538" it="0" lt="136" ct="0" ts="1517994244256" s="true" lb="Project - Dashboard - Data Source: Edit Column" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="58614" sby="176" ng="1" na="1"/>
+<httpSample t="1119" it="0" lt="322" ct="160" ts="1517994244795" s="true" lb="Project - Dashboard - Data Source: Add/Edit Formula/Labels" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="55673" sby="182" ng="1" na="1"/>
+<httpSample t="479" it="0" lt="162" ct="0" ts="1517994245915" s="true" lb="Project - Report" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="29969" sby="149" ng="1" na="1"/>
+<httpSample t="478" it="0" lt="162" ct="0" ts="1517994246395" s="true" lb="Project - Report: New " rc="200" rm="OK" tn="Front End 1-1" dt="text" by="34614" sby="152" ng="1" na="1"/>
+<httpSample t="2611" it="0" lt="283" ct="143" ts="1517994246874" s="true" lb="Project - Report: New Generated" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="324459" sby="162" ng="1" na="1"/>
+<httpSample t="2459" it="0" lt="277" ct="138" ts="1517994249485" s="true" lb="Project - Report: Edit Generated" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="326500" sby="163" ng="1" na="1"/>
+<httpSample t="1899" it="0" lt="273" ct="136" ts="1517994251944" s="true" lb="Project - Report: HTML View" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="256467" sby="153" ng="1" na="1"/>
+<httpSample t="274" it="0" lt="137" ct="0" ts="1517994253843" s="true" lb="Project - Action Tracking" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="50327" sby="157" ng="1" na="1"/>
+<httpSample t="848" it="0" lt="485" ct="161" ts="1517994254117" s="true" lb="Project - Action Tracking: New Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37480" sby="172" ng="1" na="1"/>
+<httpSample t="481" it="0" lt="161" ct="0" ts="1517994254965" s="true" lb="Project - Action Tracking: New Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="31922" sby="173" ng="1" na="1"/>
+<httpSample t="329" it="0" lt="168" ct="0" ts="1517994255447" s="true" lb="Project - Action Tracking: Upload Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="29246" sby="172" ng="1" na="1"/>
+<httpSample t="482" it="0" lt="161" ct="0" ts="1517994255777" s="true" lb="Project - Action Tracking: Action Details" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37348" sby="172" ng="1" na="1"/>
+<httpSample t="802" it="0" lt="322" ct="160" ts="1517994256259" s="true" lb="Project - Action Tracking: Meeting Details" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="49656" sby="173" ng="1" na="1"/>
+<httpSample t="488" it="0" lt="169" ct="0" ts="1517994257062" s="true" lb="Project - Action Tracking: Update Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="40147" sby="171" ng="1" na="1"/>
+<httpSample t="321" it="0" lt="160" ct="0" ts="1517994257551" s="true" lb="Project - Action Tracking: Send Email Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30292" sby="170" ng="1" na="1"/>
+<httpSample t="324" it="0" lt="162" ct="0" ts="1517994257873" s="true" lb="Project - Action Tracking: Add New Action Type = Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37672" sby="180" ng="1" na="1"/>
+<httpSample t="326" it="0" lt="165" ct="0" ts="1517994258198" s="true" lb="Project - Action Tracking: Update Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="34996" sby="172" ng="1" na="1"/>
+<httpSample t="641" it="0" lt="323" ct="162" ts="1517994258524" s="true" lb="Project - Action Tracking: Send Email Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30333" sby="171" ng="1" na="1"/>
+<httpSample t="481" it="0" lt="161" ct="0" ts="1517994259165" s="true" lb="Project - Activities" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="45222" sby="152" ng="1" na="1"/>
+
+<httpSample t="1114" it="0" lt="1114" ct="915" ts="1518143556311" s="true" lb="Login" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="2986" sby="137" ng="1" na="1"/>
+<httpSample t="325" it="0" lt="163" ct="0" ts="1518143557432" s="true" lb="Home" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30381" sby="146" ng="1" na="1"/>
+<httpSample t="322" it="0" lt="162" ct="0" ts="1518143557758" s="true" lb="Project List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="44311" sby="150" ng="1" na="1"/>
+<httpSample t="321" it="0" lt="163" ct="0" ts="1518143558081" s="true" lb="Project Benefits Tracking List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="38118" sby="168" ng="1" na="1"/>
+<httpSample t="481" it="0" lt="163" ct="0" ts="1518143558402" s="true" lb="Project Closed List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="36412" sby="157" ng="1" na="1"/>
+<httpSample t="412" it="0" lt="274" ct="135" ts="1518143558884" s="true" lb="Project Archived List" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="38125" sby="159" ng="1" na="1"/>
+<httpSample t="421" it="0" lt="137" ct="0" ts="1518143559296" s="true" lb="Project - Overview" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="70946" sby="150" ng="1" na="1"/>
+<httpSample t="407" it="0" lt="136" ct="0" ts="1518143559718" s="true" lb="Project - Dashboard" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="70891" sby="151" ng="1" na="1"/>
+<httpSample t="1239" it="0" lt="148" ct="0" ts="1518143560127" s="true" lb="Project - Dashboard: Add New Item" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="325540" sby="160" ng="1" na="1"/>
+<httpSample t="511" it="0" lt="348" ct="175" ts="1518143561366" s="true" lb="Project - Dashboard: Edit Section" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="32256" sby="164" ng="1" na="1"/>
+<httpSample t="348" it="0" lt="176" ct="0" ts="1518143561877" s="true" lb="Project - Dashboard - Data Source" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="45711" sby="163" ng="1" na="1"/>
+<httpSample t="337" it="0" lt="174" ct="0" ts="1518143562225" s="true" lb="Project - Dashboard - Data Source: Import" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="28707" sby="170" ng="1" na="1"/>
+<httpSample t="344" it="0" lt="179" ct="0" ts="1518143562562" s="true" lb="Project - Dashboard - Data Source: Edit Column" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="58614" sby="176" ng="1" na="1"/>
+<httpSample t="493" it="0" lt="170" ct="0" ts="1518143562906" s="true" lb="Project - Dashboard - Data Source: Add/Edit Formula/Labels" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="55646" sby="182" ng="1" na="1"/>
+<httpSample t="410" it="0" lt="273" ct="135" ts="1518143563400" s="true" lb="Project - Report" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30133" sby="149" ng="1" na="1"/>
+<httpSample t="330" it="0" lt="145" ct="0" ts="1518143563811" s="true" lb="Project - Report: New " rc="200" rm="OK" tn="Front End 1-1" dt="text" by="34614" sby="152" ng="1" na="1"/>
+<httpSample t="1639" it="0" lt="137" ct="0" ts="1518143564141" s="true" lb="Project - Report: New Generated" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="324662" sby="162" ng="1" na="1"/>
+<httpSample t="2200" it="0" lt="278" ct="138" ts="1518143565779" s="true" lb="Project - Report: Edit Generated" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="326738" sby="163" ng="1" na="1"/>
+<httpSample t="1974" it="0" lt="328" ct="164" ts="1518143567979" s="true" lb="Project - Report: HTML View" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="256728" sby="153" ng="1" na="1"/>
+<httpSample t="481" it="0" lt="162" ct="0" ts="1518143569954" s="true" lb="Project - Action Tracking" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="50473" sby="157" ng="1" na="1"/>
+<httpSample t="549" it="0" lt="279" ct="135" ts="1518143570436" s="true" lb="Project - Action Tracking: New Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37480" sby="172" ng="1" na="1"/>
+<httpSample t="292" it="0" lt="157" ct="0" ts="1518143570987" s="true" lb="Project - Action Tracking: New Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="31922" sby="173" ng="1" na="1"/>
+<httpSample t="280" it="0" lt="145" ct="0" ts="1518143571280" s="true" lb="Project - Action Tracking: Upload Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="29246" sby="172" ng="1" na="1"/>
+<httpSample t="288" it="0" lt="152" ct="0" ts="1518143571561" s="true" lb="Project - Action Tracking: Action Details" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37495" sby="172" ng="1" na="1"/>
+<httpSample t="273" it="0" lt="137" ct="0" ts="1518143571849" s="true" lb="Project - Action Tracking: Meeting Details" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="49782" sby="173" ng="1" na="1"/>
+<httpSample t="288" it="0" lt="152" ct="0" ts="1518143572123" s="true" lb="Project - Action Tracking: Update Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="40147" sby="171" ng="1" na="1"/>
+<httpSample t="278" it="0" lt="143" ct="0" ts="1518143572412" s="true" lb="Project - Action Tracking: Send Email Action" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30292" sby="170" ng="1" na="1"/>
+<httpSample t="657" it="0" lt="332" ct="162" ts="1518143572691" s="true" lb="Project - Action Tracking: Add New Action Type = Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="37699" sby="180" ng="1" na="1"/>
+<httpSample t="488" it="0" lt="166" ct="0" ts="1518143573349" s="true" lb="Project - Action Tracking: Update Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="34996" sby="172" ng="1" na="1"/>
+<httpSample t="330" it="0" lt="169" ct="0" ts="1518143573838" s="true" lb="Project - Action Tracking: Send Email Meeting" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="30306" sby="171" ng="1" na="1"/>
+<httpSample t="485" it="0" lt="163" ct="0" ts="1518143574169" s="true" lb="Project - Activities" rc="200" rm="OK" tn="Front End 1-1" dt="text" by="45378" sby="152" ng="1" na="1"/>
+
+</testResults>
